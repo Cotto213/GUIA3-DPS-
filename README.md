@@ -9,7 +9,7 @@ descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
 1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
 2. Ejecuta el siguiente comando para clonar el repositorio:
 ```
-git clone https://github.com/bocchiko/DPS-Guia3.git
+git clone https://github.com/Cotto213/DPS-Guia3.git
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
